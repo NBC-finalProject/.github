@@ -23,6 +23,6 @@ CS25는 매일 오전에 무작위의 CS 면접 질문을 이메일로 보내드
 
 ---
 
-[CS25 팀 소개 Notion](https://www.notion.so/CS25-223e2a3e053580888faef79fdf6bfbcf?source=copy_link)
+[CS25 팀 소개 Notion](https://determined-visitor-52a.notion.site/CS25-223e2a3e053580888faef79fdf6bfbcf)
 
 CS25의 소개, 추구하는 가치, 팀 소개 등을 정리해두었습니다. 😘
